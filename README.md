@@ -30,5 +30,5 @@ El objetivo principal de este ejercicio es que practiques y comprendas mejor las
 ## Interfaz 
 
 ![imagenFlutter1](https://github.com/Sukera27/MancinaCastroA01/assets/122563964/f6d320f6-9198-431e-9e21-68e126a4f177)
-## Desarrollado por:
+## Desarrollador
 - **Rafael Mancina Castro**
